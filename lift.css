@@ -1,0 +1,28 @@
+h2 {
+    background-color: green;
+}
+
+html {
+    background-color: grey;
+}
+
+.header {
+    padding: 20px;
+    background:darkgreen;
+    text-align:center;
+    color:black;
+    font-size:30px;
+}
+
+.banner {
+    text-align:center;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+
+
